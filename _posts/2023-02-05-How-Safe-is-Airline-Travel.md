@@ -15,7 +15,9 @@ This mentality towards airline travel is not an uncommon one and in fact affects
 
 # Overall Numbers
 
-![](/assets/images/Overall-Numbers.png){: style="text-align:left"}
+<!-- ![](/assets/images/Overall-Numbers.png){: style="text-align:left"} -->
+<img src="https://github.com/Hakuna-Patata/Hakuna-Patata.github.io/blob/main/assets/images/Overall-Numbers.png?raw=true">{::options parse_block_html="true" /}
+
 <br>
 
 When you see these totals, what are your thoughts? Should these totals be alarming? Should the public be concerned? If you answered, I don't know, then you are correct. <u>In order to get the <b>TRUE</b> story we're going to need to dig a little deeper.</u>
