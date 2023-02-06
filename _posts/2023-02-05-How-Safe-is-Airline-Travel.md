@@ -32,14 +32,14 @@ A large majority of airplane accidents are not related to planes carrying passen
 
 From 1970 to 2020, airline passenger related accidents have declined exponentially. This is due to advancements in both airplane technology and safety regulations. This trend can be seen when viewing the airline passenger fatality rate per 1 million passengers. In 1970, there were 4.6 fatalities per 1 million passengers. In 2020, there were 0.2 fatalities per 1 million passengers which equates to an extremely low mortality rate of 1 fatality per 5 million passengers.
 
-![](/assets/images/Airline-Passenger-Mortality-Rate-Trending.png){: .left}
+![](/assets/images/Airline-Passenger-Mortality-Rate-Trending.png){: .left }
 <br>
 
 # Airline Passenger vs. Road Travel
 
 Now that we've narrowed our focus on <u>passenger</u> related airline accidents and can see that the accidents are decreasing exponentially over time, it would be nice to compare this type of travel with another form of travel that most people don't think twice about...<u><b>road</b></u> travel! Looking at the graph below, it is quite impressive how much higher the road traffic mortality rate is vs. the airline passenger mortality rate. In fact, when comparing the rates via a line graph, the mortality rate for airline travel appears as a straight line across the bottom of the graph when compared to the road traffic mortality rate.
 
-![](/assets/images/Air-vs-Road%20(badges).png){: .left}{: style="clear:both"}
+![](/assets/images/Air-vs-Road%20(badges).png){: .left}
 
 ![](/assets/images/Air-vs-Road(graph).png){: .left }
 <br>

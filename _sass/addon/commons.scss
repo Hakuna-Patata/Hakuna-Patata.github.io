@@ -663,15 +663,17 @@ i { /* fontawesome icons */
 .left {
   float: left;
   margin: 0.75rem 1rem 1rem 0 !important;
-}
-
-.left::after {
-  clear: both;
+  &::after {
+    clear: left;
+  }
 }
 
 .right {
   float: right;
   margin: 0.75rem 0 1rem 1rem !important;
+  &::after {
+    clear: right;
+  }
 }
 
 .right::after {
