@@ -17,7 +17,8 @@ This mentality towards airline travel is not an uncommon one and in fact affects
 
 <!-- ![](/assets/images/Overall-Numbers.png){: style="text-align:left"} -->
 
-<p><img src="https://github.com/Hakuna-Patata/Hakuna-Patata.github.io/blob/main/assets/images/Overall-Numbers.png?raw=true"><p>{: style="text-align:left"}
+![](/assets/images/Overall-Numbers.png){: .left }
+<p> </p>{: style="clear:left"}
 
 <br>
 
