@@ -16,7 +16,7 @@ This mentality towards airline travel is not an uncommon one and in fact affects
 # Overall Numbers
 
 <!-- ![](/assets/images/Overall-Numbers.png){: style="text-align:left"} -->
-<img src="https://github.com/Hakuna-Patata/Hakuna-Patata.github.io/blob/main/assets/images/Overall-Numbers.png?raw=true">{::options parse_block_html="true" /}
+<img src="assets/images/Overall-Numbers.png">{::options parse_block_html="true" /}
 
 <br>
 
