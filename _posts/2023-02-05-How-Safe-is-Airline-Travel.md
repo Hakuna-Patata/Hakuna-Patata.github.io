@@ -17,8 +17,6 @@ This mentality towards airline travel is not an uncommon one and in fact affects
 ![](/assets/images/Overall-Numbers.png){: .left }
 
 {:style="clear: left"}
-<br>
-
 When you see these totals, what are your thoughts? Should these totals be alarming? Should the public be concerned? If you answered, I don't know, then you are correct. <u>In order to get the <b>TRUE</b> story we're going to need to dig a little deeper.</u>
 
 
@@ -57,6 +55,8 @@ Ok, now that we've compared air travel with road travel, let's compare air trave
 ![](/assets/images/Airline-vs-Lightning.png){: .left }
 
 {: style="clear: left"}
+<br>
+
 # Conclusion
 Flying is an extremely safe way to travel and it continuously gets safer and safer over time. For me personally, after doing the research for this topic and seeing the data, I feel much more confident about flying and I hope you do too.
 
