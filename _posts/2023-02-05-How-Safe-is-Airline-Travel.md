@@ -39,7 +39,7 @@ From 1970 to 2020, airline passenger related accidents have declined exponential
 
 Now that we've narrowed our focus on <u>passenger</u> related airline accidents and can see that the accidents are decreasing exponentially over time, it would be nice to compare this type of travel with another form of travel that most people don't think twice about...<u><b>road</b></u> travel! Looking at the graph below, it is quite impressive how much higher the road traffic mortality rate is vs. the airline passenger mortality rate. In fact, when comparing the rates via a line graph, the mortality rate for airline travel appears as a straight line across the bottom of the graph when compared to the road traffic mortality rate.
 
-![](/assets/images/Air-vs-Road%20(badges).png){: .left }
+![](/assets/images/Air-vs-Road%20(badges).png){: .left}{: style="clear:both"}
 
 ![](/assets/images/Air-vs-Road(graph).png){: .left }
 <br>
