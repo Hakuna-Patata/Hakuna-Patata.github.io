@@ -19,7 +19,9 @@ This mentality towards airline travel is not an uncommon one and in fact affects
 
 ![](/assets/images/Overall-Numbers.png){: .left }
 
-When you see these totals, what are your thoughts? Should these totals be alarming? Should the public be concerned? If you answered, I don't know, then you are correct. <u>In order to get the <b>TRUE</b> story we're going to need to dig a little deeper.</u>{: style="clear:left"}
+<br>
+
+When you see these totals, what are your thoughts? Should these totals be alarming? Should the public be concerned? If you answered, I don't know, then you are correct. <u>In order to get the <b>TRUE</b> story we're going to need to dig a little deeper.</u>
 
 
 # What Types of Accidents are These?
