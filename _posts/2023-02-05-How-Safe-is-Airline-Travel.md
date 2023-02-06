@@ -16,8 +16,7 @@ This mentality towards airline travel is not an uncommon one and in fact affects
 # Overall Numbers
 ![](/assets/images/Overall-Numbers.png){: .left }
 
-<br>
-
+{:style="clear: left"}
 When you see these totals, what are your thoughts? Should these totals be alarming? Should the public be concerned? If you answered, I don't know, then you are correct. <u>In order to get the <b>TRUE</b> story we're going to need to dig a little deeper.</u>
 
 
@@ -34,6 +33,8 @@ A large majority of airplane accidents are not related to planes carrying passen
 From 1970 to 2020, airline passenger related accidents have declined exponentially. This is due to advancements in both airplane technology and safety regulations. This trend can be seen when viewing the airline passenger fatality rate per 1 million passengers. In 1970, there were 4.6 fatalities per 1 million passengers. In 2020, there were 0.2 fatalities per 1 million passengers which equates to an extremely low mortality rate of 1 fatality per 5 million passengers.
 
 ![](/assets/images/Airline-Passenger-Mortality-Rate-Trending.png){: .left }
+
+{: style="clear: left"}
 <br>
 
 # Airline Passenger vs. Road Travel
