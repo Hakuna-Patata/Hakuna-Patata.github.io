@@ -25,8 +25,7 @@ When you see these totals, what are your thoughts? Should these totals be alarmi
 
 A large majority of airplane accidents are not related to planes carrying passengers. For example, during WWII many of the airplane accidents were a result of combat. In fact, <b style="color:#3c85fa">64%</b> of ALL fatal accidents are NON-passenger related. 
 
-![](/assets/images/Passenger%20vs.%20Non-Passenger.png){: .left }
-{:style="clear: left"}
+![](/assets/images/Passenger%20vs.%20Non-Passenger.png){: .left }{:style="clear: left"}
 
 <br>
 
