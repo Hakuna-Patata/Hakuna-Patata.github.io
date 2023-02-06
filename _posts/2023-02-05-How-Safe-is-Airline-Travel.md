@@ -14,9 +14,6 @@ You're sitting on a plane about to take off and then it hits you...FEAR. Like a 
 This mentality towards airline travel is not an uncommon one and in fact affects a large portion of our population. “_Flying phobia is a highly prevalent anxiety disorder, which causes sufferers significant distress and life interference. The processes which maintain flying phobia remain poorly understood” (Clark & Rock, 2016)_. Ok, so many people are afraid of flying and we don’t know exactly what it comes from, but are these fears valid? Is there a real reason to be afraid of flying? To answer that, let’s dive into some data.
 
 # Overall Numbers
-
-<!-- ![](/assets/images/Overall-Numbers.png){: style="text-align:left"} -->
-
 ![](/assets/images/Overall-Numbers.png){: .left }
 
 <br>
